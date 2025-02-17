@@ -1,4 +1,4 @@
-Here’s the same information formatted in GitHub Markdown:  
+
 
 ```markdown
 # Setting Up AWS CLI and Configuring Terraform  
