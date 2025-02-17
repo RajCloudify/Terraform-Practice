@@ -34,6 +34,3 @@ You’ll be prompted to enter:
 - **Output format** (default is `json`, but you can choose `table` or `text`)  
 
 This will store your credentials securely and allow Terraform to interact with AWS using the AWS CLI.  
-```  
-
-This format ensures readability and is well-structured for GitHub documentation. Let me know if you need further modifications! 🚀
