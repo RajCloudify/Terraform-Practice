@@ -3,3 +3,4 @@ case 1 ---> creating a backend.tf file in which we mention the bucket detail to 
 Result ---> Resource created and statefile is present in rajsbbuckett-->path/to/my/key (Object)
 
 case 
+
