@@ -3,7 +3,9 @@ resource "aws_instance" "name" {
     key_name = var.pass
     instance_type = var.INSTANCE-Type
 }
-resource "aws_s3_bucket" "name" {
-    bucket = var.bucket-name
+# resource "aws_s3_bucket" "name" {
+#     bucket = var.bucket-name
   
-}
+# }
+
+  
