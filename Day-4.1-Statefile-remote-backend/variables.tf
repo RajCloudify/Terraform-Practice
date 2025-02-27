@@ -13,3 +13,8 @@ variable "pass" {
     description = "Enter key name"
   
 }
+variable "bucket-name" {
+    type = string
+    description = "name of the new bucket"
+  
+}
