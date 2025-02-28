@@ -1,6 +1,6 @@
 State-file-local-issues
 
-case-1--> created resources and that state file is present locally itself(indivisual state file)---> local developer 
+case-1--> created resources and  state file is present locally itself(individual state file)---> local developer 
 
 Result --> resources are created by the local developer with the given code, but if they're multiple developers working on the same project they will clone it and everytime they clone, it will create new resources as there is no statefile present with other developers.
 
