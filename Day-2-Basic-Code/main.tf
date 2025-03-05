@@ -3,3 +3,4 @@ resource "aws_instance" "name" {
   key_name=var.key
   instance_type=  var.type
 } 
+
