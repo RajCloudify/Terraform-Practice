@@ -1,6 +1,6 @@
 ami-id = "ami-0ddfba243cbee3768"
 key = "KEYPAIR"
-type = ""
+type = "t2.micro"
 
 #generally when we run terraform plan and terraform apply it will run terraform.tfvars file by defualt
 
