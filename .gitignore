@@ -5,7 +5,7 @@
 *.tfstate
 *.tfstate.*
 
-# Terraform lock file
+# Terraform lock files
 .terraform.lock.hcl
 # documents
 *.doc
