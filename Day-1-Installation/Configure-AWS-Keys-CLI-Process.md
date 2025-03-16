@@ -5,7 +5,7 @@
 
 To work with AWS using Terraform, you'll need to set up the AWS CLI and configure your credentials. Follow these steps to get everything ready:  
 
-## 1. Install AWS CLI  
+### 1. Install AWS CLI  
 
 Ensure that the AWS CLI is installed on your system. You can download and install it from the official [AWS CLI page](https://aws.amazon.com/cli/).  
 
