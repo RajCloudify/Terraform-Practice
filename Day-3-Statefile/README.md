@@ -1,4 +1,4 @@
-#### Test case-1 ####
+#### Test Case-1 ####
 Changing settings (ec2 state) in remote(AWS) and verifying how does the statefile reacts to it.
 
 ### Result ######  :- If you've changed settings in remote (AWS console manually) the statefile has to update in your local terraform, in order for it to update, iniate terraform apply and the statefiles get updated   
