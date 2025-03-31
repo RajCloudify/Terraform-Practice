@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Setting Up AWS CLI and Configuring Terraform  
+## Setting Up AWS CLI and Configuring Terraform   ###
 
 To work with AWS using Terraform, you'll need to set up the AWS CLI and configure your credentials. Follow these steps to get everything ready:  
 
