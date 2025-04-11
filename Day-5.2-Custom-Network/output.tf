@@ -4,3 +4,4 @@ output "aws_instance" {
 output "aws_subnet" {
   value = aws_subnet.dev
 }
+ 
