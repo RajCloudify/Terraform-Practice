@@ -11,3 +11,4 @@ Observation :- When ran command terraform plan, it says Plan:1, 0 to change, 1 t
 
 ### Result #### 
 Iniated terraform apply --auto-aprove, it destroyed the current instance and created an instance according to the desired state.
+ 
